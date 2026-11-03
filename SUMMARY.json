@@ -1,0 +1,215 @@
+{
+  "version": "2026-11-03-v1",
+  "generated_at_asia_shanghai": "2026-11-03",
+  "entry_count": 25,
+  "categories": {
+    "AI Agent / Skills": 3,
+    "MCP 与连接器": 5,
+    "自动化与爬虫": 7,
+    "电商与运营": 4,
+    "内容与图片": 3,
+    "通用效率": 3
+  },
+  "entries": [
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars": 186964,
+      "category": "AI Agent / Skills",
+      "one_liner": "Anthropic 官方 Agent Skills 公开仓库，可复用的技能包与规范参考。",
+      "is_new": true
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 311545,
+      "category": "AI Agent / Skills",
+      "one_liner": "面向编程 Agent 的技能框架与软件开发方法论，社区采用极广。",
+      "is_new": true
+    },
+    {
+      "name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "stars": 49079,
+      "category": "AI Agent / Skills",
+      "one_liner": "收录 2800+ 可复用 AI Agent Skills，覆盖 Claude Code、Codex、Cursor、Gemini CLI。",
+      "is_new": true
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 97239,
+      "category": "MCP 与连接器",
+      "one_liner": "社区主流 MCP Server 精选目录，按场景与语言分类齐全。",
+      "is_new": true
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 91765,
+      "category": "MCP 与连接器",
+      "one_liner": "Model Context Protocol 官方参考服务器集合。",
+      "is_new": true
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "stars": 39118,
+      "category": "MCP 与连接器",
+      "one_liner": "微软官方 Playwright MCP Server，让 Agent 操控浏览器。",
+      "is_new": true
+    },
+    {
+      "name": "firecrawl/firecrawl-mcp-server",
+      "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "stars": 7755,
+      "category": "MCP 与连接器",
+      "one_liner": "Firecrawl 官方 MCP：搜索、抓取、结构化网页上下文给 Agent。",
+      "is_new": true
+    },
+    {
+      "name": "GeLi2001/shopify-mcp",
+      "url": "https://github.com/GeLi2001/shopify-mcp",
+      "stars": 239,
+      "category": "MCP 与连接器",
+      "one_liner": "Shopify API 的 MCP Server，可在 Claude / Cursor 中调用店铺能力。",
+      "is_new": true
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 119918,
+      "category": "自动化与爬虫",
+      "one_liner": "开源 AI 浏览器 Agent 库，支持本地与云端隐身浏览器。",
+      "is_new": true
+    },
+    {
+      "name": "Skyvern-AI/skyvern",
+      "url": "https://github.com/Skyvern-AI/skyvern",
+      "stars": 23336,
+      "category": "自动化与爬虫",
+      "one_liner": "用视觉 + LLM 自动化浏览器工作流的开源 RPA。",
+      "is_new": true
+    },
+    {
+      "name": "microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright",
+      "stars": 99171,
+      "category": "自动化与爬虫",
+      "one_liner": "跨浏览器 Web 自动化与测试框架，生态完善。",
+      "is_new": true
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "stars": 209432,
+      "category": "自动化与爬虫",
+      "one_liner": "可自托管的工作流自动化平台，原生支持 AI 节点。",
+      "is_new": true
+    },
+    {
+      "name": "enescingoz/awesome-n8n-templates",
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "stars": 26244,
+      "category": "自动化与爬虫",
+      "one_liner": "280+ 免费 n8n 模板，覆盖 Gmail、表格、消息与常见 SaaS。",
+      "is_new": true
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "stars": 86822,
+      "category": "自动化与爬虫",
+      "one_liner": "面向 LLM 的开源爬虫，把网页转成干净 Markdown。",
+      "is_new": true
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 198164,
+      "category": "自动化与爬虫",
+      "one_liner": "为 AI Agent 设计的网页数据 API / 爬取库。",
+      "is_new": true
+    },
+    {
+      "name": "medusajs/medusa",
+      "url": "https://github.com/medusajs/medusa",
+      "stars": 37069,
+      "category": "电商与运营",
+      "one_liner": "面向开发者与 Agent 的灵活开源电商平台。",
+      "is_new": true
+    },
+    {
+      "name": "easycb/easycb-go",
+      "url": "https://github.com/easycb/easycb-go",
+      "stars": 173,
+      "category": "电商与运营",
+      "one_liner": "Go 语言跨境卖家开放平台 SDK：TikTok Shop、Shopee、Lazada、SHEIN、Ozon 等。",
+      "is_new": true
+    },
+    {
+      "name": "Shopify/shopify_python_api",
+      "url": "https://github.com/Shopify/shopify_python_api",
+      "stars": 1430,
+      "category": "电商与运营",
+      "one_liner": "Shopify 官方 Python Admin API 客户端库。",
+      "is_new": true
+    },
+    {
+      "name": "BetaStreetOmnis/xhs_ai_publisher",
+      "url": "https://github.com/BetaStreetOmnis/xhs_ai_publisher",
+      "stars": 2095,
+      "category": "电商与运营",
+      "one_liner": "小红书 AI 内容创作与发布工具（桌面端 + FastAPI + 浏览器自动化）。",
+      "is_new": true
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars": 144787,
+      "category": "内容与图片",
+      "one_liner": "模块化扩散模型 GUI / API，本地图像与工作流生产主力。",
+      "is_new": true
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "stars": 92190,
+      "category": "内容与图片",
+      "one_liner": "强大 OCR / 文档结构化工具，把图片与 PDF 变成可用数据。",
+      "is_new": true
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "stars": 64203,
+      "category": "内容与图片",
+      "one_liner": "Agent Skill：去除 AI 写作痕迹，让文案更自然。",
+      "is_new": true
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 160317,
+      "category": "通用效率",
+      "one_liner": "开源 LLM 应用平台：Agent 工作流、RAG、工具编排。",
+      "is_new": true
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "stars": 24105,
+      "category": "通用效率",
+      "one_liner": "AI Agent Skill 安全扫描器，检测恶意与风险技能。",
+      "is_new": true
+    },
+    {
+      "name": "googleworkspace/cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "stars": 32079,
+      "category": "通用效率",
+      "one_liner": "Google Workspace CLI（Drive/Gmail/Calendar/Sheets 等），含 AI agent skills。",
+      "is_new": true
+    }
+  ]
+}
