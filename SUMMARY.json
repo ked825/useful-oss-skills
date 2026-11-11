@@ -1,14 +1,15 @@
 {
-  "version": "2026-11-03-v1",
-  "generated_at_asia_shanghai": "2026-11-03",
-  "entry_count": 25,
+  "version": "2026-11-11-v1",
+  "generated_at_asia_shanghai": "2026-11-11",
+  "entry_count": 33,
   "categories": {
     "AI Agent / Skills": 3,
     "MCP 与连接器": 5,
     "自动化与爬虫": 7,
     "电商与运营": 4,
     "内容与图片": 3,
-    "通用效率": 3
+    "通用效率": 3,
+    "线下门店": 8
   },
   "entries": [
     {
@@ -17,7 +18,7 @@
       "stars": 186964,
       "category": "AI Agent / Skills",
       "one_liner": "Anthropic 官方 Agent Skills 公开仓库，可复用的技能包与规范参考。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "obra/superpowers",
@@ -25,7 +26,7 @@
       "stars": 311545,
       "category": "AI Agent / Skills",
       "one_liner": "面向编程 Agent 的技能框架与软件开发方法论，社区采用极广。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "sickn33/agentic-awesome-skills",
@@ -33,7 +34,7 @@
       "stars": 49079,
       "category": "AI Agent / Skills",
       "one_liner": "收录 2800+ 可复用 AI Agent Skills，覆盖 Claude Code、Codex、Cursor、Gemini CLI。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
@@ -41,7 +42,7 @@
       "stars": 97239,
       "category": "MCP 与连接器",
       "one_liner": "社区主流 MCP Server 精选目录，按场景与语言分类齐全。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "modelcontextprotocol/servers",
@@ -49,7 +50,7 @@
       "stars": 91765,
       "category": "MCP 与连接器",
       "one_liner": "Model Context Protocol 官方参考服务器集合。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "microsoft/playwright-mcp",
@@ -57,7 +58,7 @@
       "stars": 39118,
       "category": "MCP 与连接器",
       "one_liner": "微软官方 Playwright MCP Server，让 Agent 操控浏览器。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "firecrawl/firecrawl-mcp-server",
@@ -65,7 +66,7 @@
       "stars": 7755,
       "category": "MCP 与连接器",
       "one_liner": "Firecrawl 官方 MCP：搜索、抓取、结构化网页上下文给 Agent。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "GeLi2001/shopify-mcp",
@@ -73,7 +74,7 @@
       "stars": 239,
       "category": "MCP 与连接器",
       "one_liner": "Shopify API 的 MCP Server，可在 Claude / Cursor 中调用店铺能力。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "browser-use/browser-use",
@@ -81,7 +82,7 @@
       "stars": 119918,
       "category": "自动化与爬虫",
       "one_liner": "开源 AI 浏览器 Agent 库，支持本地与云端隐身浏览器。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "Skyvern-AI/skyvern",
@@ -89,7 +90,7 @@
       "stars": 23336,
       "category": "自动化与爬虫",
       "one_liner": "用视觉 + LLM 自动化浏览器工作流的开源 RPA。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "microsoft/playwright",
@@ -97,7 +98,7 @@
       "stars": 99171,
       "category": "自动化与爬虫",
       "one_liner": "跨浏览器 Web 自动化与测试框架，生态完善。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "n8n-io/n8n",
@@ -105,7 +106,7 @@
       "stars": 209432,
       "category": "自动化与爬虫",
       "one_liner": "可自托管的工作流自动化平台，原生支持 AI 节点。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "enescingoz/awesome-n8n-templates",
@@ -113,7 +114,7 @@
       "stars": 26244,
       "category": "自动化与爬虫",
       "one_liner": "280+ 免费 n8n 模板，覆盖 Gmail、表格、消息与常见 SaaS。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "unclecode/crawl4ai",
@@ -121,7 +122,7 @@
       "stars": 86822,
       "category": "自动化与爬虫",
       "one_liner": "面向 LLM 的开源爬虫，把网页转成干净 Markdown。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "firecrawl/firecrawl",
@@ -129,7 +130,7 @@
       "stars": 198164,
       "category": "自动化与爬虫",
       "one_liner": "为 AI Agent 设计的网页数据 API / 爬取库。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "medusajs/medusa",
@@ -137,7 +138,7 @@
       "stars": 37069,
       "category": "电商与运营",
       "one_liner": "面向开发者与 Agent 的灵活开源电商平台。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "easycb/easycb-go",
@@ -145,7 +146,7 @@
       "stars": 173,
       "category": "电商与运营",
       "one_liner": "Go 语言跨境卖家开放平台 SDK：TikTok Shop、Shopee、Lazada、SHEIN、Ozon 等。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "Shopify/shopify_python_api",
@@ -153,7 +154,7 @@
       "stars": 1430,
       "category": "电商与运营",
       "one_liner": "Shopify 官方 Python Admin API 客户端库。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "BetaStreetOmnis/xhs_ai_publisher",
@@ -161,7 +162,7 @@
       "stars": 2095,
       "category": "电商与运营",
       "one_liner": "小红书 AI 内容创作与发布工具（桌面端 + FastAPI + 浏览器自动化）。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "Comfy-Org/ComfyUI",
@@ -169,7 +170,7 @@
       "stars": 144787,
       "category": "内容与图片",
       "one_liner": "模块化扩散模型 GUI / API，本地图像与工作流生产主力。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "PaddlePaddle/PaddleOCR",
@@ -177,7 +178,7 @@
       "stars": 92190,
       "category": "内容与图片",
       "one_liner": "强大 OCR / 文档结构化工具，把图片与 PDF 变成可用数据。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "blader/humanizer",
@@ -185,7 +186,7 @@
       "stars": 64203,
       "category": "内容与图片",
       "one_liner": "Agent Skill：去除 AI 写作痕迹，让文案更自然。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "langgenius/dify",
@@ -193,7 +194,7 @@
       "stars": 160317,
       "category": "通用效率",
       "one_liner": "开源 LLM 应用平台：Agent 工作流、RAG、工具编排。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "NVIDIA/SkillSpector",
@@ -201,7 +202,7 @@
       "stars": 24105,
       "category": "通用效率",
       "one_liner": "AI Agent Skill 安全扫描器，检测恶意与风险技能。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "googleworkspace/cli",
@@ -209,6 +210,70 @@
       "stars": 32079,
       "category": "通用效率",
       "one_liner": "Google Workspace CLI（Drive/Gmail/Calendar/Sheets 等），含 AI agent skills。",
+      "is_new": false
+    },
+    {
+      "name": "jishenghua/jshERP",
+      "url": "https://github.com/jishenghua/jshERP",
+      "stars": 4697,
+      "category": "线下门店",
+      "one_liner": "国产开源进销存 ERP（管伊佳，原华夏 ERP），覆盖零售、采购、销售、仓库与财务，可商用。",
+      "is_new": true
+    },
+    {
+      "name": "fushengqian/fuint",
+      "url": "https://github.com/fushengqian/fuint",
+      "stars": 1800,
+      "category": "线下门店",
+      "one_liner": "面向实体店的会员营销 + POS 收银系统，支持微信小程序 / H5，打通线上下单与代客收银。",
+      "is_new": true
+    },
+    {
+      "name": "gongfuxiang/shopxo",
+      "url": "https://github.com/gongfuxiang/shopxo",
+      "stars": 3349,
+      "category": "线下门店",
+      "one_liner": "企业级开源商城，支持微信等六端小程序、多门店与进销存（部分能力为应用商店插件）。",
+      "is_new": true
+    },
+    {
+      "name": "crmeb/CRMEB",
+      "url": "https://github.com/crmeb/CRMEB",
+      "stars": 9467,
+      "category": "线下门店",
+      "one_liner": "文档较完善的开源微信小程序商城，覆盖下单、会员与营销，声明可免费商用。",
+      "is_new": true
+    },
+    {
+      "name": "xmosnewone/ICEPOS-Cashier-System",
+      "url": "https://github.com/xmosnewone/ICEPOS-Cashier-System",
+      "stars": 110,
+      "category": "线下门店",
+      "one_liner": "全代码开源的门店收银系统，支持离线、扫码枪、小票打印与微信/支付宝收款。",
+      "is_new": true
+    },
+    {
+      "name": "Dolibarr/dolibarr",
+      "url": "https://github.com/Dolibarr/dolibarr",
+      "stars": 7850,
+      "category": "线下门店",
+      "one_liner": "较轻量的开源 ERP/CRM，含库存、订单、POS 与干预/售后工单，支持多语言（含中文）。",
+      "is_new": true
+    },
+    {
+      "name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "stars": 41187,
+      "category": "线下门店",
+      "one_liner": "功能完整且全部开源的 ERP，含库存、POS、采购、客户支持与资产/序列号管理。",
+      "is_new": true
+    },
+    {
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "stars": 55709,
+      "category": "线下门店",
+      "one_liner": "生态最全的开源 ERP，社区版含库存、POS、CRM 与维修模块；高级功能多在付费企业版。",
       "is_new": true
     }
   ]
