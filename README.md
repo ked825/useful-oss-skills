@@ -18,7 +18,7 @@
 - 每周一约 09:00（Asia/Shanghai）例行更新
 - 用户说「更新开源清单」时可立刻刷新
 
-**第一版条目数**：25
+**第一版条目数**：25 · **当前条目数**：41（🆕 = 本周新增）
 
 ## 目录
 
@@ -52,6 +52,13 @@
 - **适合场景**：快速检索现成技能包，扩展客服、运营、开发助手能力
 - **星标**：49,079
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
+
+### 🆕 [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+
+- **一句话**：面向 Claude Code 等 Agent 的营销技能包：CRO、文案、SEO、数据分析与增长。
+- **适合场景**：独立站/店铺落地页优化、广告与 SEO 文案、增长实验
+- **星标**：60,581
+- **近况**：最近推送 2026-11-12（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T17:49:23Z）
 
 ## MCP 与连接器
 
@@ -89,6 +96,20 @@
 - **适合场景**：Shopify 店铺商品、订单相关操作的 Agent 化
 - **星标**：239
 - **近况**：最近推送约 2026-04-05（GitHub `pushed_at` UTC 日期）
+
+### 🆕 [amzn/selling-partner-agentic-toolkit](https://github.com/amzn/selling-partner-agentic-toolkit)
+
+- **一句话**：Amazon 官方 Selling Partner 连接器（MCP）配套技能：销售分析、断货预警、FBA 入仓、Listing 排障、月结对账；写操作均需人工确认。
+- **适合场景**：亚马逊卖家用 AI 助理查数据、做补货与 FBA 计划（需 Seller Central OAuth 授权）
+- **星标**：39
+- **近况**：最近推送 2026-11-12（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T21:22:57Z）
+
+### 🆕 [YosefHayim/ebay-mcp](https://github.com/YosefHayim/ebay-mcp)
+
+- **一句话**：本地 MCP Server，把 AI 助理接到 eBay 卖家 API（Listing、订单、营销，支持 OAuth）。
+- **适合场景**：eBay 跨境店铺的商品上架、订单查询与营销自动化
+- **星标**：201
+- **近况**：最近推送 2026-11-15（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-15T14:30:43Z）
 
 ## 自动化与爬虫
 
@@ -141,6 +162,13 @@
 - **星标**：198,164
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
 
+### 🆕 [activepieces/activepieces](https://github.com/activepieces/activepieces)
+
+- **一句话**：开源 AI 工作流自动化平台（类 Zapier/n8n），内置约 400 个 MCP Server 与 AI Agent 节点。
+- **适合场景**：无代码串联店铺、表格、消息与 AI 步骤；可自托管
+- **星标**：25,546
+- **近况**：最近推送 2026-11-16（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-15T23:15:15Z）
+
 ## 电商与运营
 
 ### [medusajs/medusa](https://github.com/medusajs/medusa)
@@ -171,6 +199,20 @@
 - **星标**：2,095
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
 
+### 🆕 [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)
+
+- **一句话**：跨平台电商 Agent 技能集（Amazon、Shopify、eBay、Etsy、TikTok Shop、Walmart）：选品、营销自动化、供应链与经营分析。
+- **适合场景**：跨境多平台卖家的选品调研、增长策略与运营分析；`npx skills add` 安装
+- **星标**：1,422
+- **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T03:42:39Z）
+
+### 🆕 [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills)
+
+- **一句话**：52 个面向亚马逊卖家的免费 Agent 技能：关键词研究、Listing 优化、FBA 费用计算、PPC 广告等。
+- **适合场景**：亚马逊 Listing 撰写/审计、关键词与竞品分析、广告优化
+- **星标**：870
+- **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T03:42:47Z）
+
 ## 内容与图片
 
 ### [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
@@ -193,6 +235,20 @@
 - **适合场景**：Listing、社媒文案、客服话术润色去 AI 感
 - **星标**：64,203
 - **近况**：最近推送约 2026-10-28（GitHub `pushed_at` UTC 日期）
+
+### 🆕 [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
+
+- **一句话**：中文电商视觉策划 Skill：主图/详情页/A+ 的图内文案、生图 Prompt 与合规审查，先建证据账本再出执行卡。
+- **适合场景**：商品主图与详情页策划、AI 生图提示词、图文合规自查
+- **星标**：1,100
+- **近况**：最近推送 2026-10-30（Asia/Shanghai，来自 GitHub `pushed_at` 2026-10-30T03:59:53Z）
+
+### 🆕 [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG)
+
+- **一句话**：ComfyUI 自定义节点：高质量抠图去背景，并支持物体、人脸、服装等分割。
+- **适合场景**：商品图批量去背景、白底图与换背景流水线（GPL-3.0）
+- **星标**：2,234
+- **近况**：最近推送 2026-10-20（Asia/Shanghai，来自 GitHub `pushed_at` 2026-10-20T08:31:47Z）
 
 ## 通用效率
 
@@ -295,6 +351,12 @@
 - **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T12:11:41Z）
 
 ## 更新记录
+
+### 2026-11-16
+
+- 新增 8 条（标 🆕）：marketingskills、Amazon Selling Partner 官方 Agent 工具包、ebay-mcp、Activepieces、Nexscope eCommerce-Skills / Amazon-Skills、电商视觉文案 Skill、ComfyUI-RMBG。
+- 本批侧重：跨境电商平台（Amazon/eBay/多平台）Agent 技能与 MCP、商品图策划与抠图、可自托管的 AI 工作流。
+- 数据来源：GitHub 搜索 + `repos` API + README 核对；星标与推送时间为 2026-11-16 快照。
 
 ### 2026-11-11
 

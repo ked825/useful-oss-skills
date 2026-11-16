@@ -1,13 +1,13 @@
 {
-  "version": "2026-11-11-v1",
-  "generated_at_asia_shanghai": "2026-11-11",
-  "entry_count": 33,
+  "version": "2026-11-16-v1",
+  "generated_at_asia_shanghai": "2026-11-16",
+  "entry_count": 41,
   "categories": {
-    "AI Agent / Skills": 3,
-    "MCP 与连接器": 5,
-    "自动化与爬虫": 7,
-    "电商与运营": 4,
-    "内容与图片": 3,
+    "AI Agent / Skills": 4,
+    "MCP 与连接器": 7,
+    "自动化与爬虫": 8,
+    "电商与运营": 6,
+    "内容与图片": 5,
     "通用效率": 3,
     "线下门店": 8
   },
@@ -218,7 +218,7 @@
       "stars": 4697,
       "category": "线下门店",
       "one_liner": "国产开源进销存 ERP（管伊佳，原华夏 ERP），覆盖零售、采购、销售、仓库与财务，可商用。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "fushengqian/fuint",
@@ -226,7 +226,7 @@
       "stars": 1800,
       "category": "线下门店",
       "one_liner": "面向实体店的会员营销 + POS 收银系统，支持微信小程序 / H5，打通线上下单与代客收银。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "gongfuxiang/shopxo",
@@ -234,7 +234,7 @@
       "stars": 3349,
       "category": "线下门店",
       "one_liner": "企业级开源商城，支持微信等六端小程序、多门店与进销存（部分能力为应用商店插件）。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "crmeb/CRMEB",
@@ -242,7 +242,7 @@
       "stars": 9467,
       "category": "线下门店",
       "one_liner": "文档较完善的开源微信小程序商城，覆盖下单、会员与营销，声明可免费商用。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "xmosnewone/ICEPOS-Cashier-System",
@@ -250,7 +250,7 @@
       "stars": 110,
       "category": "线下门店",
       "one_liner": "全代码开源的门店收银系统，支持离线、扫码枪、小票打印与微信/支付宝收款。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "Dolibarr/dolibarr",
@@ -258,7 +258,7 @@
       "stars": 7850,
       "category": "线下门店",
       "one_liner": "较轻量的开源 ERP/CRM，含库存、订单、POS 与干预/售后工单，支持多语言（含中文）。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "frappe/erpnext",
@@ -266,7 +266,7 @@
       "stars": 41187,
       "category": "线下门店",
       "one_liner": "功能完整且全部开源的 ERP，含库存、POS、采购、客户支持与资产/序列号管理。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "odoo/odoo",
@@ -274,6 +274,70 @@
       "stars": 55709,
       "category": "线下门店",
       "one_liner": "生态最全的开源 ERP，社区版含库存、POS、CRM 与维修模块；高级功能多在付费企业版。",
+      "is_new": false
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "stars": 60581,
+      "category": "AI Agent / Skills",
+      "one_liner": "面向 Claude Code 等 Agent 的营销技能包：CRO、文案、SEO、数据分析与增长。",
+      "is_new": true
+    },
+    {
+      "name": "amzn/selling-partner-agentic-toolkit",
+      "url": "https://github.com/amzn/selling-partner-agentic-toolkit",
+      "stars": 39,
+      "category": "MCP 与连接器",
+      "one_liner": "Amazon 官方 Selling Partner 连接器（MCP）配套技能：销售分析、断货预警、FBA 入仓、Listing 排障、月结对账；写操作均需人工确认。",
+      "is_new": true
+    },
+    {
+      "name": "YosefHayim/ebay-mcp",
+      "url": "https://github.com/YosefHayim/ebay-mcp",
+      "stars": 201,
+      "category": "MCP 与连接器",
+      "one_liner": "本地 MCP Server，把 AI 助理接到 eBay 卖家 API（Listing、订单、营销，支持 OAuth）。",
+      "is_new": true
+    },
+    {
+      "name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "stars": 25546,
+      "category": "自动化与爬虫",
+      "one_liner": "开源 AI 工作流自动化平台（类 Zapier/n8n），内置约 400 个 MCP Server 与 AI Agent 节点。",
+      "is_new": true
+    },
+    {
+      "name": "nexscope-ai/eCommerce-Skills",
+      "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+      "stars": 1422,
+      "category": "电商与运营",
+      "one_liner": "跨平台电商 Agent 技能集（Amazon、Shopify、eBay、Etsy、TikTok Shop、Walmart）：选品、营销自动化、供应链与经营分析。",
+      "is_new": true
+    },
+    {
+      "name": "nexscope-ai/Amazon-Skills",
+      "url": "https://github.com/nexscope-ai/Amazon-Skills",
+      "stars": 870,
+      "category": "电商与运营",
+      "one_liner": "52 个面向亚马逊卖家的免费 Agent 技能：关键词研究、Listing 优化、FBA 费用计算、PPC 广告等。",
+      "is_new": true
+    },
+    {
+      "name": "feichanggege/ecommerce-visual-copywriting-skill",
+      "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
+      "stars": 1100,
+      "category": "内容与图片",
+      "one_liner": "中文电商视觉策划 Skill：主图/详情页/A+ 的图内文案、生图 Prompt 与合规审查，先建证据账本再出执行卡。",
+      "is_new": true
+    },
+    {
+      "name": "1038lab/ComfyUI-RMBG",
+      "url": "https://github.com/1038lab/ComfyUI-RMBG",
+      "stars": 2234,
+      "category": "内容与图片",
+      "one_liner": "ComfyUI 自定义节点：高质量抠图去背景，并支持物体、人脸、服装等分割。",
       "is_new": true
     }
   ]
