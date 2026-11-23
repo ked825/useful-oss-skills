@@ -18,7 +18,7 @@
 - 每周一约 09:00（Asia/Shanghai）例行更新
 - 用户说「更新开源清单」时可立刻刷新
 
-**第一版条目数**：25 · **当前条目数**：41（🆕 = 本周新增）
+**第一版条目数**：25 · **当前条目数**：49（🆕 = 本周新增）
 
 ## 目录
 
@@ -53,12 +53,19 @@
 - **星标**：49,079
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
 
-### 🆕 [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 
 - **一句话**：面向 Claude Code 等 Agent 的营销技能包：CRO、文案、SEO、数据分析与增长。
 - **适合场景**：独立站/店铺落地页优化、广告与 SEO 文案、增长实验
 - **星标**：60,581
 - **近况**：最近推送 2026-11-12（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T17:49:23Z）
+
+### 🆕 [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills)
+
+- **一句话**：32 个免费营销 Agent 技能（调研、定位、文案、落地页、SEO/AI 搜索、广告、邮件与内容，另含本地商家包），无需付费工具，MIT。
+- **适合场景**：独立站/店铺的获客与内容营销、SEO 与广告素材；可用 `npx skills add` 安装
+- **星标**：796
+- **近况**：最近推送 2026-11-18（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-17T22:53:58Z）
 
 ## MCP 与连接器
 
@@ -97,14 +104,14 @@
 - **星标**：239
 - **近况**：最近推送约 2026-04-05（GitHub `pushed_at` UTC 日期）
 
-### 🆕 [amzn/selling-partner-agentic-toolkit](https://github.com/amzn/selling-partner-agentic-toolkit)
+### [amzn/selling-partner-agentic-toolkit](https://github.com/amzn/selling-partner-agentic-toolkit)
 
 - **一句话**：Amazon 官方 Selling Partner 连接器（MCP）配套技能：销售分析、断货预警、FBA 入仓、Listing 排障、月结对账；写操作均需人工确认。
 - **适合场景**：亚马逊卖家用 AI 助理查数据、做补货与 FBA 计划（需 Seller Central OAuth 授权）
 - **星标**：39
 - **近况**：最近推送 2026-11-12（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T21:22:57Z）
 
-### 🆕 [YosefHayim/ebay-mcp](https://github.com/YosefHayim/ebay-mcp)
+### [YosefHayim/ebay-mcp](https://github.com/YosefHayim/ebay-mcp)
 
 - **一句话**：本地 MCP Server，把 AI 助理接到 eBay 卖家 API（Listing、订单、营销，支持 OAuth）。
 - **适合场景**：eBay 跨境店铺的商品上架、订单查询与营销自动化
@@ -162,7 +169,7 @@
 - **星标**：198,164
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
 
-### 🆕 [activepieces/activepieces](https://github.com/activepieces/activepieces)
+### [activepieces/activepieces](https://github.com/activepieces/activepieces)
 
 - **一句话**：开源 AI 工作流自动化平台（类 Zapier/n8n），内置约 400 个 MCP Server 与 AI Agent 节点。
 - **适合场景**：无代码串联店铺、表格、消息与 AI 步骤；可自托管
@@ -199,19 +206,54 @@
 - **星标**：2,095
 - **近况**：最近推送约 2026-11-03（GitHub `pushed_at` UTC 日期）
 
-### 🆕 [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)
+### [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)
 
 - **一句话**：跨平台电商 Agent 技能集（Amazon、Shopify、eBay、Etsy、TikTok Shop、Walmart）：选品、营销自动化、供应链与经营分析。
 - **适合场景**：跨境多平台卖家的选品调研、增长策略与运营分析；`npx skills add` 安装
 - **星标**：1,422
 - **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T03:42:39Z）
 
-### 🆕 [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills)
+### [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills)
 
 - **一句话**：52 个面向亚马逊卖家的免费 Agent 技能：关键词研究、Listing 优化、FBA 费用计算、PPC 广告等。
 - **适合场景**：亚马逊 Listing 撰写/审计、关键词与竞品分析、广告优化
 - **星标**：870
 - **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T03:42:47Z）
+
+### 🆕 [congminh1254/shopee-sdk](https://github.com/congminh1254/shopee-sdk)
+
+- **一句话**：轻量 TypeScript SDK，对接 Shopee Open API v2：自动签名、可插拔 Token 存储，文档称覆盖全部端点。
+- **适合场景**：Shopee 东南亚店铺的订单、商品等接口对接与卖家工具后端
+- **星标**：239
+- **近况**：最近推送 2026-11-18（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-17T17:08:48Z）
+
+### 🆕 [40RTY-ai/shopify-admin-skills](https://github.com/40RTY-ai/shopify-admin-skills)
+
+- **一句话**：社区维护的 Shopify 店铺运营 Agent 技能：116 个技能覆盖 11 类，另有 21 个定时例程盯库存、履约、财务与客户健康。
+- **适合场景**：用 Claude Code / Cursor 等助手做 Shopify 日常运营、报表与异常巡检
+- **星标**：205
+- **近况**：最近推送 2026-10-27（Asia/Shanghai，来自 GitHub `pushed_at` 2026-10-26T16:43:21Z）
+
+### 🆕 [Weaverse/shopify-hydrogen-skills](https://github.com/Weaverse/shopify-hydrogen-skills)
+
+- **一句话**：面向 Shopify Hydrogen 店面开发、维护与升级的 Agent 技能，适配 Claude Code、Cursor、Copilot 等（对齐 Hydrogen 2026.10）。
+- **适合场景**：用 AI 助理搭建或改版 Hydrogen 独立站、做版本升级
+- **星标**：98
+- **近况**：最近推送 2026-11-21（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-21T06:05:15Z）
+
+### 🆕 [chattermate/chattermate.chat](https://github.com/chattermate/chattermate.chat)
+
+- **一句话**：可自托管的开源 AI 客服（支持人工接管），打通网页、WhatsApp、Instagram、Messenger、Slack、邮件，并支持 MCP 与自带模型。
+- **适合场景**：店铺/独立站客服自动化、多渠道收件箱、知识库问答（Apache-2.0）
+- **星标**：176
+- **近况**：最近推送 2026-11-22（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-22T02:31:46Z）
+
+### 🆕 [noique/cross-border-ecommerce-skills](https://github.com/noique/cross-border-ecommerce-skills)
+
+- **一句话**：58 个跨境电商/DTC Agent 技能（中英），覆盖选品、Listing、广告、财务、红人与 VOC；事实标注来源并设证据闸，避免编造数据。
+- **适合场景**：品牌出海与亚马逊/独立站运营辅助；数据不足时会明确提示，而不是编数字
+- **星标**：103
+- **近况**：最近推送 2026-08-02（Asia/Shanghai，来自 GitHub `pushed_at` 2026-08-01T20:16:06Z）
 
 ## 内容与图片
 
@@ -236,19 +278,33 @@
 - **星标**：64,203
 - **近况**：最近推送约 2026-10-28（GitHub `pushed_at` UTC 日期）
 
-### 🆕 [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
+### [feichanggege/ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
 
 - **一句话**：中文电商视觉策划 Skill：主图/详情页/A+ 的图内文案、生图 Prompt 与合规审查，先建证据账本再出执行卡。
 - **适合场景**：商品主图与详情页策划、AI 生图提示词、图文合规自查
 - **星标**：1,100
 - **近况**：最近推送 2026-10-30（Asia/Shanghai，来自 GitHub `pushed_at` 2026-10-30T03:59:53Z）
 
-### 🆕 [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG)
+### [1038lab/ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG)
 
 - **一句话**：ComfyUI 自定义节点：高质量抠图去背景，并支持物体、人脸、服装等分割。
 - **适合场景**：商品图批量去背景、白底图与换背景流水线（GPL-3.0）
 - **星标**：2,234
 - **近况**：最近推送 2026-10-20（Asia/Shanghai，来自 GitHub `pushed_at` 2026-10-20T08:31:47Z）
+
+### 🆕 [xixihhhh/clipforge](https://github.com/xixihhhh/clipforge)
+
+- **一句话**：开源 AI 带货短视频工具（原「带货剪手」）：一张商品图自动提炼卖点、写种草脚本、锁定原图不变形并配音字幕，可发多平台。
+- **适合场景**：抖音小店/快手/小红书/TikTok Shop 卖货短视频批量出片；可本地自部署（AGPL-3.0）
+- **星标**：1,380
+- **近况**：最近推送 2026-11-21（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-20T16:48:48Z）
+
+### 🆕 [diego3g/craft](https://github.com/diego3g/craft)
+
+- **一句话**：面向 AI Agent 的设计技能：先写设计简报，再按设计系统产出含各种状态的界面并做评审，支持 Figma 或 HTML。
+- **适合场景**：独立站/落地页与后台界面的设计稿、状态补全与设计走查
+- **星标**：419
+- **近况**：最近推送 2026-11-22（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-21T21:19:25Z）
 
 ## 通用效率
 
@@ -351,6 +407,12 @@
 - **近况**：最近推送 2026-11-11（Asia/Shanghai，来自 GitHub `pushed_at` 2026-11-11T12:11:41Z）
 
 ## 更新记录
+
+### 2026-11-23
+
+- 新增 8 条（标 🆕）：Boring Marketing Skills、Shopee TypeScript SDK、Shopify Admin Skills、Shopify Hydrogen Skills、Chattermate 开源客服、跨境电商 Skills（noique）、ClipForge 带货短视频、Craft 设计技能。
+- 本批侧重：Shopee/Shopify 跨境工具与店铺运营技能、带货短视频与界面设计、可自托管客服，以及强调证据闸的中文跨境技能包。
+- 数据来源：GitHub 搜索 + `repos` API + README 核对；星标与推送时间为 2026-11-23 快照。
 
 ### 2026-11-16
 

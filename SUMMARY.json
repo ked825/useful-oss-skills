@@ -1,13 +1,13 @@
 {
-  "version": "2026-11-16-v1",
-  "generated_at_asia_shanghai": "2026-11-16",
-  "entry_count": 41,
+  "version": "2026-11-23-v1",
+  "generated_at_asia_shanghai": "2026-11-23",
+  "entry_count": 49,
   "categories": {
-    "AI Agent / Skills": 4,
+    "AI Agent / Skills": 5,
     "MCP 与连接器": 7,
     "自动化与爬虫": 8,
-    "电商与运营": 6,
-    "内容与图片": 5,
+    "电商与运营": 11,
+    "内容与图片": 7,
     "通用效率": 3,
     "线下门店": 8
   },
@@ -282,7 +282,7 @@
       "stars": 60581,
       "category": "AI Agent / Skills",
       "one_liner": "面向 Claude Code 等 Agent 的营销技能包：CRO、文案、SEO、数据分析与增长。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "amzn/selling-partner-agentic-toolkit",
@@ -290,7 +290,7 @@
       "stars": 39,
       "category": "MCP 与连接器",
       "one_liner": "Amazon 官方 Selling Partner 连接器（MCP）配套技能：销售分析、断货预警、FBA 入仓、Listing 排障、月结对账；写操作均需人工确认。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "YosefHayim/ebay-mcp",
@@ -298,7 +298,7 @@
       "stars": 201,
       "category": "MCP 与连接器",
       "one_liner": "本地 MCP Server，把 AI 助理接到 eBay 卖家 API（Listing、订单、营销，支持 OAuth）。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "activepieces/activepieces",
@@ -306,7 +306,7 @@
       "stars": 25546,
       "category": "自动化与爬虫",
       "one_liner": "开源 AI 工作流自动化平台（类 Zapier/n8n），内置约 400 个 MCP Server 与 AI Agent 节点。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "nexscope-ai/eCommerce-Skills",
@@ -314,7 +314,7 @@
       "stars": 1422,
       "category": "电商与运营",
       "one_liner": "跨平台电商 Agent 技能集（Amazon、Shopify、eBay、Etsy、TikTok Shop、Walmart）：选品、营销自动化、供应链与经营分析。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "nexscope-ai/Amazon-Skills",
@@ -322,7 +322,7 @@
       "stars": 870,
       "category": "电商与运营",
       "one_liner": "52 个面向亚马逊卖家的免费 Agent 技能：关键词研究、Listing 优化、FBA 费用计算、PPC 广告等。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "feichanggege/ecommerce-visual-copywriting-skill",
@@ -330,7 +330,7 @@
       "stars": 1100,
       "category": "内容与图片",
       "one_liner": "中文电商视觉策划 Skill：主图/详情页/A+ 的图内文案、生图 Prompt 与合规审查，先建证据账本再出执行卡。",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "1038lab/ComfyUI-RMBG",
@@ -338,6 +338,70 @@
       "stars": 2234,
       "category": "内容与图片",
       "one_liner": "ComfyUI 自定义节点：高质量抠图去背景，并支持物体、人脸、服装等分割。",
+      "is_new": false
+    },
+    {
+      "name": "boringmarketer/boring-marketing-skills",
+      "url": "https://github.com/boringmarketer/boring-marketing-skills",
+      "stars": 796,
+      "category": "AI Agent / Skills",
+      "one_liner": "32 个免费营销 Agent 技能（调研、定位、文案、落地页、SEO/AI 搜索、广告、邮件与内容，另含本地商家包），无需付费工具，MIT。",
+      "is_new": true
+    },
+    {
+      "name": "congminh1254/shopee-sdk",
+      "url": "https://github.com/congminh1254/shopee-sdk",
+      "stars": 239,
+      "category": "电商与运营",
+      "one_liner": "轻量 TypeScript SDK，对接 Shopee Open API v2：自动签名、可插拔 Token 存储，文档称覆盖全部端点。",
+      "is_new": true
+    },
+    {
+      "name": "40RTY-ai/shopify-admin-skills",
+      "url": "https://github.com/40RTY-ai/shopify-admin-skills",
+      "stars": 205,
+      "category": "电商与运营",
+      "one_liner": "社区维护的 Shopify 店铺运营 Agent 技能：116 个技能覆盖 11 类，另有 21 个定时例程盯库存、履约、财务与客户健康。",
+      "is_new": true
+    },
+    {
+      "name": "Weaverse/shopify-hydrogen-skills",
+      "url": "https://github.com/Weaverse/shopify-hydrogen-skills",
+      "stars": 98,
+      "category": "电商与运营",
+      "one_liner": "面向 Shopify Hydrogen 店面开发、维护与升级的 Agent 技能，适配 Claude Code、Cursor、Copilot 等（对齐 Hydrogen 2026.10）。",
+      "is_new": true
+    },
+    {
+      "name": "chattermate/chattermate.chat",
+      "url": "https://github.com/chattermate/chattermate.chat",
+      "stars": 176,
+      "category": "电商与运营",
+      "one_liner": "可自托管的开源 AI 客服（支持人工接管），打通网页、WhatsApp、Instagram、Messenger、Slack、邮件，并支持 MCP 与自带模型。",
+      "is_new": true
+    },
+    {
+      "name": "noique/cross-border-ecommerce-skills",
+      "url": "https://github.com/noique/cross-border-ecommerce-skills",
+      "stars": 103,
+      "category": "电商与运营",
+      "one_liner": "58 个跨境电商/DTC Agent 技能（中英），覆盖选品、Listing、广告、财务、红人与 VOC；事实标注来源并设证据闸，避免编造数据。",
+      "is_new": true
+    },
+    {
+      "name": "xixihhhh/clipforge",
+      "url": "https://github.com/xixihhhh/clipforge",
+      "stars": 1380,
+      "category": "内容与图片",
+      "one_liner": "开源 AI 带货短视频工具（原「带货剪手」）：一张商品图自动提炼卖点、写种草脚本、锁定原图不变形并配音字幕，可发多平台。",
+      "is_new": true
+    },
+    {
+      "name": "diego3g/craft",
+      "url": "https://github.com/diego3g/craft",
+      "stars": 419,
+      "category": "内容与图片",
+      "one_liner": "面向 AI Agent 的设计技能：先写设计简报，再按设计系统产出含各种状态的界面并做评审，支持 Figma 或 HTML。",
       "is_new": true
     }
   ]
